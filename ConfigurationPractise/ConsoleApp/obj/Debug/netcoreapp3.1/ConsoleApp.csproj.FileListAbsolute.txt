@@ -1,0 +1,15 @@
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\ProjectCode\Practice\dotnetcore\ConfigurationPractise\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
